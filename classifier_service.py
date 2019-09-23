@@ -1,6 +1,6 @@
 from tkinter import Tk, Frame, Button, filedialog, Label, Canvas, messagebox
 from PIL import Image, ImageTk
-from dog_classifier_v2 import *
+from dog_classifier import *
 
 window = Tk()
 window.title("Provide Picture For Classification") # self explanatory!
